@@ -7,3 +7,5 @@ Assignment - 03 : https://github.com/2303A52487/GEN-AI/blob/main/GEN_AI_Assignme
 Assignment - 04 : https://github.com/2303A52487/GEN-AI/blob/main/GEN_AI_Assignment_04.ipynb
 
 Assignment - 5.1 : https://github.com/2303A52487/GEN-AI/blob/main/GEN_AI_Assignment_5_1.ipynb
+
+Assignment - 6.1 : https://github.com/2303A52487/GEN-AI/blob/main/GEN_AL_Assignment_6_1.ipynb
