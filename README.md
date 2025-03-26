@@ -12,4 +12,6 @@ Assignment - 6.1 : https://github.com/2303A52487/GEN-AI/blob/main/GEN_AL_Assignm
 
 Assignment - 7.1 : https://github.com/2303A52487/GEN-AI/blob/main/GEN_AI_Assignment_7_1.ipynb
 
+Assignment - 8.1 : https://github.com/2303A52487/GEN-AI/blob/main/GEN_AI_Assignment_8_1.ipynb
+
 Assignment - 9.1 : https://github.com/2303A52487/GEN-AI/blob/main/GEN_AI_Assignment_9_1.ipynb
